@@ -1,9 +1,9 @@
 import { Typography } from "@mui/material";
 
-export default function Home() {
+export default function Informacion() {
   return (
     <Typography variant="h1" component="h1" textAlign="center">
-      Inicio
+      Quienes Somos
     </Typography>
   );
 }
